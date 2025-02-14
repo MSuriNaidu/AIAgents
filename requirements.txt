@@ -3,4 +3,4 @@ phidata
 python-dotenv
 groq
 yfinance
-duckduckgo
+duckduckgo-search
