@@ -2,4 +2,5 @@ streamlit
 phidata
 python-dotenv
 groq
-YFinanceTools
+yfinance
+duckduckgo
